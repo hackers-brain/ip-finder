@@ -1,8 +1,8 @@
 # IP Finder v2.0
 ![IP Finder using Python3](https://github.com/hackers-brain/ip-finder/blob/ip_finder/host_ip_finder.png)
 IP Finder using Python3
-## Version
-**IP Finder v2.0**
+## Older Version
+**IP Finder v1.0**
 ## Requirements
 * **[Python3](https://www.python.org/downloads/)**
 
